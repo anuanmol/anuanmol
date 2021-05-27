@@ -9,10 +9,9 @@
 <img align = "right" alt="coding" width="250" height="250" src="https://thumbs.dreamstime.com/b/programmer-works-home-computer-remote-work-office-specialist-freelancer-colorful-vector-illustration-flat-cartoon-200533716.jpg">
 
 
-- 🔭 I’m currently working on Self paced projects.
-- 🌱 I’m currently learning Python frameworks for ML
-- 👯 I’m looking to collaborate on opensource.
-- 🤔 I’m looking for help with Cloud Platforms.
+- 🔭 I’m currently working on Self paced projects and Data Science skills.
+- 🌱 I’m currently learning Python frameworks for Data Science.
+- 👯 I’m looking to collaborate in Data Science.
 - 💬 Ask me about anything interesting.
 - 📫 How to reach me: **anuuanmol99@gmail.com**
 - ⚡ Fun fact: I can talk on any topic 🤪
@@ -36,6 +35,7 @@
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Windows" height="40" style="vertical-align:top; margin:4px"></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/" alt="" height="40" style="vertical-align:top; margin: 4px"></a>
 
 <h3>:trophy: My Github Stats </h3>
 
