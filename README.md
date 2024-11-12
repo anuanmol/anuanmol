@@ -9,9 +9,9 @@
 <img align = "right" alt="coding" width="250" height="250" src="https://thumbs.dreamstime.com/b/programmer-works-home-computer-remote-work-office-specialist-freelancer-colorful-vector-illustration-flat-cartoon-200533716.jpg">
 
 
-- 🔭 I’m currently working on Self paced projects and Data Science skills.
-- 🌱 I’m currently learning Python frameworks for Data Science.
-- 👯 I’m looking to collaborate in Data Science.
+- 🔭 I’m currently a Java BackEnd developer crafting high-performance applications.
+- 🌱 I’m currently learning Java and related back-end frameworks.
+- 👯 I’m looking to collaborate on any interesting project related to scalable back-end solutions.
 - 💬 Ask me about anything interesting.
 - 📫 How to reach me: **anuuanmol99@gmail.com**
 - ⚡ Fun fact: I can talk on any topic 🤪
@@ -28,8 +28,10 @@
 
 #### Languages and Tools
 
+<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px"></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Spring" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px"></a>
